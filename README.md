@@ -1,6 +1,6 @@
 # Guide to Kotlin
 
-What I think this tutorial has all the information you need if all you know is Java, but you want to learn Kotlin.
+This tutorial has what I think is all the information you need if all you know is Java, but you want to learn Kotlin.
 
 Please note that the resources are in the [**wiki page**](https://github.com/Zhuinden/guide-to-kotlin/wiki).
 
