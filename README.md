@@ -123,9 +123,9 @@ If you feel like this project helped you so much that you would have wanted to p
 
 I'm actually not sure how Ethereum works, but I do have a wallet thanks to Reddit. I just know it's possible to accept donations there, so I may as well add it here.
 
-+----------+--------------------------------------------+
-| Ethereum | 0x9cA7a7e0492Ba58bb52fb3B04a4E3C3864C20DBB |
-+----------+--------------------------------------------+
+```
+0x9cA7a7e0492Ba58bb52fb3B04a4E3C3864C20DBB |
+```
 
 
 # License
