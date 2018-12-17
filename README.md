@@ -116,10 +116,7 @@ If you feel like this project helped you so much that you would have wanted to p
 
 ## PayPal 
 
-* **[Donate €4](https://www.paypal.me/Zhuinden/4)**: This sum lets me buy tibetan soup for lunch. If you ever visit Hungary, you should try it too, I know a really good place.
-* **[Donate €8](https://www.paypal.me/Zhuinden/8)**: This is double the amount one above, and it's also yet another power of 2.
-* **[Donate €12](https://www.paypal.me/Zhuinden/12)**: I think I've just ruined that sequence, but at least built another one.
-* **[Donate €16](https://www.paypal.me/Zhuinden/16)**: I've seen projects add a $2799 tier, but if I get too much money, that'd result in more paperwork. So this is fine as the highest tier.
+* **[Donate €5](https://www.paypal.me/Zhuinden/5)**
 
 ## Ethereum
 
