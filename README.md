@@ -41,6 +41,8 @@ A few things that are worth watching to know more about Kotlin.
 
 - [enum class](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#enum-class)
 
+- [annotation class](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#annotation-class)
+
 - [final by default vs open](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#final-by-default-vs-open)
 
 - [for loops (in ranges, until)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#for-loops-in-ranges-until)
@@ -62,6 +64,8 @@ A few things that are worth watching to know more about Kotlin.
 - [there is no condition ? true : false ternary operator](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#there-is-no-condition--true--false-ternary-operator)
 
 - [arrayOf and arrayOfNulls and listOf and mutableListOf and linkedMapOf](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#arrayof-and-arrayofnulls-and-listof-and-mutablelistof-and-linkedmapof)
+
+- [array literals in annotations (for vararg parameters)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Major-Syntax-Differences#array-literal-in-annotations-even-for-single-argument-vararg-parameter)
 
 - [operator conventions (get() vs [], .equals() vs ==)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#operator-conventions-get-vs--equals-vs-)
 
