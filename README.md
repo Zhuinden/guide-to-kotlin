@@ -6,6 +6,27 @@ This tutorial assumes that all you know is Java, but you want to learn Kotlin.
 
 Please note that the resources are in the [**wiki page**](https://github.com/Zhuinden/guide-to-kotlin/wiki).
 
+# Additional resources
+
+A few things that are worth watching to know more about Kotlin.
+
+## More resources to read
+
+- By me: [Odd things to look out for when converting code to Kotlin](https://android.jlelse.eu/odd-things-to-look-out-for-when-converting-code-to-kotlin-a00b6239828c)
+
+- By me: [Code clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
+
+- [Android KTX source code](https://github.com/android/android-ktx/tree/136ba4cdb3b6ece7470cbddeaf6a168021a69a30/src/main/java/androidx/core)
+
+## More resources to watch
+
+- [Jake Wharton: Instrumentation Testing Robots](https://academy.realm.io/posts/kau-jake-wharton-testing-robots/)
+
+- [Droidcon NYC 2018: Advanced Kotlin](https://www.youtube.com/watch?v=ECglKui0hpc)
+
+- [How to Kotlin - from the Lead Kotlin Language Designer (Google I/O '18)](https://www.youtube.com/watch?v=6P20npkvcb8)
+
+
 # Table of Content
 
 ## Syntax Quirks
@@ -118,6 +139,8 @@ Please note that the resources are in the [**wiki page**](https://github.com/Zhu
 
 ## Stuff that needs to be added or more fleshed out in this tutorial
 
+- things marked with * in the table of contents
+
 - coroutines?
 
 - channels?
@@ -125,22 +148,6 @@ Please note that the resources are in the [**wiki page**](https://github.com/Zhu
 - @DslMarker?
 
 - multi-platform things: `expect` and `actual`?
-
-# More resources to read
-
-- By me: [Odd things to look out for when converting code to Kotlin](https://android.jlelse.eu/odd-things-to-look-out-for-when-converting-code-to-kotlin-a00b6239828c)
-
-- By me: [Code clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
-
-- [Android KTX source code](https://github.com/android/android-ktx/tree/136ba4cdb3b6ece7470cbddeaf6a168021a69a30/src/main/java/androidx/core)
-
-# More resources to watch
-
-- [Jake Wharton: Instrumentation Testing Robots](https://academy.realm.io/posts/kau-jake-wharton-testing-robots/)
-
-- [Droidcon NYC 2018: Advanced Kotlin](https://www.youtube.com/watch?v=ECglKui0hpc)
-
-- [How to Kotlin - from the Lead Kotlin Language Designer (Google I/O '18)](https://www.youtube.com/watch?v=6P20npkvcb8)
 
 # Feel like donating?
 
