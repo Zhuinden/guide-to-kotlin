@@ -1,6 +1,6 @@
 # Guide to Kotlin
 
-This tutorial has what I think is all the information you need if all you know is Java, but you want to learn Kotlin.
+This tutorial assumes that all you know is Java, but you want to learn Kotlin.
 
 Please note that the resources are in the [**wiki page**](https://github.com/Zhuinden/guide-to-kotlin/wiki).
 
@@ -44,25 +44,29 @@ Please note that the resources are in the [**wiki page**](https://github.com/Zhu
 
 ## Basic Kotlin Features
 
-- typed nullability
+- [typed nullability, and null-safety operators (?., ?:)](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#typed-nullability-and-null-safety-operators--)
 
-- smart casting (and mutable vars gotcha)
+- [smart casting (and mutable vars gotcha)](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#smart-casting-and-mutable-vars-gotcha)
 
-- lateinit vars
+- [lateinit vars](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#lateinit-vars)
 
-- properties, backing fields (`set(value) { field = value ... }`, difference between `val x = ""` and `val x: String get() = ""`
+- [properties, backing fields](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#properties-backing-fields)
 
-- string interpolation and """multiline escaped ${strings}"""
+- [string interpolation and """multiline escaped ${strings}"""](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#string-interpolation-and-multiline-escaped-strings)
 
-- data classes
+- [data classes](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#data-classes)
 
-- null safety operators: safe-call (`?.`) and elvis (`?:`)
+- [`when` keyword (and complex conditions, such as ranges)](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#when-keyword)
 
-- `when` keyword (and complex conditions, such as ranges)
+- [control statement as expression (assignment of `when`, `return`, ...)](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#control-statement-as-expression-assignment-of-when-return)
 
-- control statement as expression (assignment of `when`, `return`, ...)
+- [named arguments, default arguments](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#named-arguments-default-arguments)
 
-- generics (`<T: Blah>`, `in/out`, and star projection `<*>`)
+- [vararg and the * spread operator](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#vararg-and-the--spread-operator)
+
+- [interfaces and default implementation](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#interfaces-and-default-implementation)
+
+- [generics (`<T: Blah>`, `in/out`, and star projection `<*>`)](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#generics-t-blah-inout-and-star-projection-)
 
 ## The Cool Stuff
 
