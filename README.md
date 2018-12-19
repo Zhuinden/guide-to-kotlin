@@ -126,6 +126,22 @@ Please note that the resources are in the [**wiki page**](https://github.com/Zhu
 
 - multi-platform things: `expect` and `actual`?
 
+# More resources to read
+
+- By me: [Odd things to look out for when converting code to Kotlin](https://android.jlelse.eu/odd-things-to-look-out-for-when-converting-code-to-kotlin-a00b6239828c)
+
+- By me: [Code clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
+
+- [Android KTX source code](https://github.com/android/android-ktx/tree/136ba4cdb3b6ece7470cbddeaf6a168021a69a30/src/main/java/androidx/core)
+
+# More resources to watch
+
+- [Jake Wharton: Instrumentation Testing Robots](https://academy.realm.io/posts/kau-jake-wharton-testing-robots/)
+
+- [Droidcon NYC 2018: Advanced Kotlin](https://www.youtube.com/watch?v=ECglKui0hpc)
+
+- [How to Kotlin - from the Lead Kotlin Language Designer (Google I/O '18)](https://www.youtube.com/watch?v=6P20npkvcb8)
+
 # Feel like donating?
 
 If you feel like this project helped you *so much* that you would have wanted to pay for it or something, I won't get in your way, and appreciate your support.
