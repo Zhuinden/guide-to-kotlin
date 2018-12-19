@@ -8,29 +8,39 @@ Please note that the resources are in the [**wiki page**](https://github.com/Zhu
 
 ## Syntax Quirks
 
-- inverted argument order, `void` vs `Unit`, `Object` vs `Any?`
+- [inverted argument order, no semi-colons, void vs Unit, Object vs Any?, fun](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#inverted-argument-order-no-semi-colons-void-vs-unit-object-vs-any-fun)
 
-- semi-colons (or lack thereof)
+- [interfaces with val, var and fun](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#interfaces-with-val-var-and-fun)
 
-- `fun`, `enum class`, `interface`s with `val`, `var` and `fun`
+- [constructors, inheritance](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#constructors-inheritance)
 
-- `for` loops (`in` ranges, `until`)
+- [lateinit vars](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#lateinit-vars)
 
-- `object` for singleton
+- [enum class](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#enum-class)
 
-- statics via `companion object`, `const val`
+- [final by default vs open](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#final-by-default-vs-open)
 
-- backticks for reserved keywords (`Mockito.\`when\``, `$`) and import aliases
+- [for loops (in ranges, until)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#for-loops-in-ranges-until)
 
-- visibility in Kotlin (public by default, `private`, `protected`, `internal`)
+- [object for singleton](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#object-for-singleton)
 
-- `is` instead of `instanceof`, `as` and `as?` for casting
+- [statics via companion object, const val](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#statics-via-companion-object-const-val)
 
-- creating anonymous implementations for classes/interfaces
+- [visibility in Kotlin (public by default, private, protected, internal)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#visibility-in-kotlin-public-by-default-private-protected-internal)
 
-- there is no `condition ? true : false` ternary operator
+- [static nested class in Java vs inner class in Kotlin](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#static-nested-class-in-java-vs-inner-class-in-kotlin)
 
-- single-line functions can be used with `= ...` instead of `{ return ... }`
+- [backticks for reserved keywords (Mockito.when, $) and import aliases](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#backticks-for-reserved-keywords-mockitowhen--and-import-aliases)
+
+- [is instead of instanceof, as and as? for casting](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#is-instead-of-instanceof-as-and-as-for-casting)
+
+- [creating anonymous implementations for classes/interfaces](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#creating-anonymous-implementations-for-classesinterfaces)
+
+- [there is no condition ? true : false ternary operator](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#there-is-no-condition--true--false-ternary-operator)
+
+- [arrayOf and arrayOfNulls and listOf and mutableListOf and linkedMapOf](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#arrayof-and-arrayofnulls-and-listof-and-mutablelistof-and-linkedmapof)
+
+- [operator conventions (get() vs [], .equals() vs ==)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#operator-conventions-get-vs--equals-vs-)
 
 ## Basic Kotlin Features
 
@@ -100,9 +110,9 @@ Please note that the resources are in the [**wiki page**](https://github.com/Zhu
 
 - `@Parcelize data class` with experimental kotlin android extensions
 
-## Stuff that needs to be more fleshed out in this tutorial
+## Stuff that needs to be added or more fleshed out in this tutorial
 
-- coroutines
+- coroutines?
 
 - channels?
 
@@ -112,20 +122,11 @@ Please note that the resources are in the [**wiki page**](https://github.com/Zhu
 
 # Feel like donating?
 
-If you feel like this project helped you so much that you would have wanted to pay for it or something, well technically I won't get in your way. Here are two options if you want to go along with it.
+If you feel like this project helped you *so much* that you would have wanted to pay for it or something, I won't get in your way, and appreciate your support.
 
 ## PayPal 
 
 * **[Donate €5](https://www.paypal.me/Zhuinden/5)**
-
-## Ethereum
-
-I'm actually not sure how Ethereum works, but I do have a wallet thanks to Reddit. I just know it's possible to accept donations there, so I may as well add it here.
-
-```
-0x9cA7a7e0492Ba58bb52fb3B04a4E3C3864C20DBB 
-```
-
 
 # License
 
