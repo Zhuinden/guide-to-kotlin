@@ -1,3 +1,5 @@
+## [Click this link to go to the Wiki page](https://github.com/Zhuinden/guide-to-kotlin/wiki)
+
 # Guide to Kotlin
 
 This tutorial assumes that all you know is Java, but you want to learn Kotlin.
