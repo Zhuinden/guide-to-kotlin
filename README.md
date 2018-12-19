@@ -22,9 +22,9 @@ A few things that are worth watching to know more about Kotlin.
 
 - [Jake Wharton: Instrumentation Testing Robots](https://academy.realm.io/posts/kau-jake-wharton-testing-robots/)
 
-- [Droidcon NYC 2018: Advanced Kotlin](https://www.youtube.com/watch?v=ECglKui0hpc)
-
 - [How to Kotlin - from the Lead Kotlin Language Designer (Google I/O '18)](https://www.youtube.com/watch?v=6P20npkvcb8)
+
+- [Droidcon NYC 2018: Advanced Kotlin](https://www.youtube.com/watch?v=ECglKui0hpc)
 
 
 # Table of Content
