@@ -65,7 +65,7 @@ A few things that are worth watching to know more about Kotlin.
 
 - [arrayOf and arrayOfNulls and listOf and mutableListOf and linkedMapOf](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#arrayof-and-arrayofnulls-and-listof-and-mutablelistof-and-linkedmapof)
 
-- [array literals in annotations (for vararg parameters)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Major-Syntax-Differences#array-literal-in-annotations-even-for-single-argument-vararg-parameter)
+- [array literals in annotations (for vararg parameters)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#array-literal-in-annotations-even-for-single-argument-vararg-parameter)
 
 - [operator conventions (get() vs [], .equals() vs ==)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#operator-conventions-get-vs--equals-vs-)
 
