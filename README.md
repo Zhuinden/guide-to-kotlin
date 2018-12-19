@@ -70,33 +70,33 @@ Please note that the resources are in the [**wiki page**](https://github.com/Zhu
 
 ## The Cool Stuff
 
-- lambda types, trailing lambdas
+- [lambda types, trailing lambdas](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#lambda-types-trailing-lambdas)
 
-- `typealias`
+- [method reference](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#method-reference)
 
-- lambdas with receivers
+- [`typealias`](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#typealias)
 
-- extension functions
+- [lambdas with receivers](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#lambdas-with-receivers)
 
-- standard library functions - scoping functions: `apply`, `let`, `also`, `run`, `with`
+- [extension functions, extension properties](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#extension-functions-extension-properties)
 
-- standard library functions - more utility functions: `takeIf`, `takeUnless`
+- [standard library functions - scoping functions: `apply`, `let`, `also`, `run`, `with`](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#standard-library-functions---scoping-functions-apply-let-also-run-with)
 
-- revisited: single-line returns with `=` instead of `{ return ... }`
+- [standard library functions - more utility functions: `takeIf`, `takeUnless`](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#standard-library-functions---more-utility-functions-takeif-takeunless)
 
-- `tailrec` keyword
+- [`tailrec` keyword](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#tailrec-keyword)
 
-- `inline` functions (`crossinline`, `noinline`)
+- [`inline` functions (`crossinline`, `noinline`)](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#inline-functions-crossinline-noinline)
 
-- a glance at [the Collections API](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/index.html#functions) 
+- *[a glance at the Collections API](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#a-glance-at-the-collections-api) ([see API here](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/index.html#functions))
 
-- inline functions and `<reified T>`
+- [`inline fun <reified T>`](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#inline-fun-reified-t)
   
-- `sealed` classes
+- [`sealed` classes](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#sealed-classes)
 
-- `infix` keyword
+- [`infix` keyword](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#infix-keyword)
 
-- tuples (`to`) and destructuring
+- [tuples (`to`) and destructuring](https://github.com/Zhuinden/guide-to-kotlin/wiki/3.\)-The-Cool-Stuff#infix-keyword)
 
 ## The Tricky Stuff
 
