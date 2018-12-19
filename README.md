@@ -8,39 +8,39 @@ Please note that the resources are in the [**wiki page**](https://github.com/Zhu
 
 ## Syntax Quirks
 
-- [inverted argument order, no semi-colons, void vs Unit, Object vs Any?, fun](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#inverted-argument-order-no-semi-colons-void-vs-unit-object-vs-any-fun)
+- [inverted argument order, no semi-colons, void vs Unit, Object vs Any?, fun](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#inverted-argument-order-no-semi-colons-void-vs-unit-object-vs-any-fun)
 
-- [interfaces with val, var and fun](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#interfaces-with-val-var-and-fun)
+- [interfaces with val, var and fun](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#interfaces-with-val-var-and-fun)
 
-- [constructors, inheritance](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#constructors-inheritance)
+- [constructors, inheritance](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#constructors-inheritance)
 
-- [lateinit vars](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#lateinit-vars)
+- [lateinit vars](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#lateinit-vars)
 
-- [enum class](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#enum-class)
+- [enum class](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#enum-class)
 
-- [final by default vs open](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#final-by-default-vs-open)
+- [final by default vs open](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#final-by-default-vs-open)
 
-- [for loops (in ranges, until)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#for-loops-in-ranges-until)
+- [for loops (in ranges, until)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#for-loops-in-ranges-until)
 
-- [object for singleton](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#object-for-singleton)
+- [object for singleton](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#object-for-singleton)
 
-- [statics via companion object, const val](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#statics-via-companion-object-const-val)
+- [statics via companion object, const val](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#statics-via-companion-object-const-val)
 
-- [visibility in Kotlin (public by default, private, protected, internal)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#visibility-in-kotlin-public-by-default-private-protected-internal)
+- [visibility in Kotlin (public by default, private, protected, internal)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#visibility-in-kotlin-public-by-default-private-protected-internal)
 
-- [static nested class in Java vs inner class in Kotlin](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#static-nested-class-in-java-vs-inner-class-in-kotlin)
+- [static nested class in Java vs inner class in Kotlin](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#static-nested-class-in-java-vs-inner-class-in-kotlin)
 
-- [backticks for reserved keywords (Mockito.when, $) and import aliases](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#backticks-for-reserved-keywords-mockitowhen--and-import-aliases)
+- [backticks for reserved keywords (Mockito.when, $) and import aliases](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#backticks-for-reserved-keywords-mockitowhen--and-import-aliases)
 
-- [is instead of instanceof, as and as? for casting](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#is-instead-of-instanceof-as-and-as-for-casting)
+- [is instead of instanceof, as and as? for casting](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#is-instead-of-instanceof-as-and-as-for-casting)
 
-- [creating anonymous implementations for classes/interfaces](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#creating-anonymous-implementations-for-classesinterfaces)
+- [creating anonymous implementations for classes/interfaces](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#creating-anonymous-implementations-for-classesinterfaces)
 
-- [there is no condition ? true : false ternary operator](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#there-is-no-condition--true--false-ternary-operator)
+- [there is no condition ? true : false ternary operator](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#there-is-no-condition--true--false-ternary-operator)
 
-- [arrayOf and arrayOfNulls and listOf and mutableListOf and linkedMapOf](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#arrayof-and-arrayofnulls-and-listof-and-mutablelistof-and-linkedmapof)
+- [arrayOf and arrayOfNulls and listOf and mutableListOf and linkedMapOf](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#arrayof-and-arrayofnulls-and-listof-and-mutablelistof-and-linkedmapof)
 
-- [operator conventions (get() vs [], .equals() vs ==)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Syntax-Quirks#operator-conventions-get-vs--equals-vs-)
+- [operator conventions (get() vs [], .equals() vs ==)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Syntax-Quirks#operator-conventions-get-vs--equals-vs-)
 
 ## Basic Kotlin Features
 
