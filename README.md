@@ -100,19 +100,19 @@ Please note that the resources are in the [**wiki page**](https://github.com/Zhu
 
 ## The Tricky Stuff
 
-- extension operators (`componentN`)
+- [*extension operators (`componentN`)](https://github.com/Zhuinden/guide-to-kotlin/wiki/4.\)-The-Tricky-Stuff#extension-operators-componentn)
 
-- property delegates (and built-in ones: `lazy`, `observable`/`vetoable`, `by map` for configurations via `Map<String, Any?>`)
+- [*property delegates (and built-in ones: `lazy`, `observable`/`vetoable`, `by map` for configurations via `Map<String, Any?>`)](https://github.com/Zhuinden/guide-to-kotlin/wiki/4.\)-The-Tricky-Stuff#property-delegates-and-built-in-ones-lazy-observablevetoable-by-map-for-configurations-via-mapstring-any)
 
-- delegation by class
+- [delegation by class](https://github.com/Zhuinden/guide-to-kotlin/wiki/4.\)-The-Tricky-Stuff#delegation-by-class)
 
-- JVM annotations: `@JvmOverloads`, `@JvmField`, `@JvmSuppressWildcards`, `@get:` and `@set:` and `@field:`
+- [*JVM annotations: `@JvmOverloads`, `@JvmField`, `@JvmSuppressWildcards`, `@get:` and `@set:` and `@field:`](https://github.com/Zhuinden/guide-to-kotlin/wiki/4.\)-The-Tricky-Stuff#jvm-annotations-jvmoverloads-jvmfield-jvmstatic-jvmsuppresswildcards-get-and-set-and-field)
 
 ## Android-Specific Stuff
 
-- synthetic view accessors with kotlin android extensions
+- [synthetic view accessors with kotlin android extensions](https://github.com/Zhuinden/guide-to-kotlin/wiki/5.\)-Android-Specific-Stuff#synthetic-view-accessors-with-kotlin-android-extensions)
 
-- `@Parcelize data class` with experimental kotlin android extensions
+- [`@Parcelize data class` with experimental kotlin android extensions](https://github.com/Zhuinden/guide-to-kotlin/wiki/5.\)-Android-Specific-Stuff#parcelize-data-class-with-experimental-kotlin-android-extensions)
 
 ## Stuff that needs to be added or more fleshed out in this tutorial
 
