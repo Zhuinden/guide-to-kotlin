@@ -69,6 +69,8 @@ A few things that are worth watching to know more about Kotlin.
 
 - [operator conventions (get() vs [], .equals() vs ==)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#operator-conventions-get-vs--equals-vs-)
 
+- [there are no checked exceptions, try-with-resources as .use {}](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Major-Syntax-Differences#there-are-no-checked-exceptions-use)
+
 ## Basic Kotlin Features
 
 - [typed nullability, and null-safety operators (?., ?:)](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#typed-nullability-and-null-safety-operators--)
