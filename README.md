@@ -71,6 +71,8 @@ A few things that are worth watching to know more about Kotlin.
 
 - [there are no checked exceptions, try-with-resources as .use {}](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Major-Syntax-Differences#there-are-no-checked-exceptions-use)
 
+- [@Volatile and synchronized](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#volatile-is-replaced-with-volatile)
+
 ## Basic Kotlin Features
 
 - [typed nullability, and null-safety operators (?., ?:)](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#typed-nullability-and-null-safety-operators--)
