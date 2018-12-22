@@ -73,6 +73,8 @@ A few things that are worth watching to know more about Kotlin.
 
 - [@Volatile and synchronized](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#volatile-is-replaced-with-volatile)
 
+- [multiple generic bounds](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#multiple-generic-bounds)
+
 ## Basic Kotlin Features
 
 - [typed nullability, and null-safety operators (?., ?:)](https://github.com/Zhuinden/guide-to-kotlin/wiki/2.\)-Basic-Kotlin-Features#typed-nullability-and-null-safety-operators--)
