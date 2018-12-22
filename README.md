@@ -69,7 +69,7 @@ A few things that are worth watching to know more about Kotlin.
 
 - [operator conventions (get() vs [], .equals() vs ==)](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#operator-conventions-get-vs--equals-vs-)
 
-- [there are no checked exceptions, try-with-resources as .use {}](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.)-Major-Syntax-Differences#there-are-no-checked-exceptions-use)
+- [there are no checked exceptions, try-with-resources as .use {}](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#there-are-no-checked-exceptions-use)
 
 - [@Volatile and synchronized](https://github.com/Zhuinden/guide-to-kotlin/wiki/1.\)-Major-Syntax-Differences#volatile-is-replaced-with-volatile)
 
