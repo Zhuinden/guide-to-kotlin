@@ -26,6 +26,9 @@ A few things that are worth watching to know more about Kotlin.
 
 - [Droidcon NYC 2018: Advanced Kotlin](https://www.youtube.com/watch?v=ECglKui0hpc)
 
+## Style-guide and reference for common mistakes to avoid 
+
+https://www.reddit.com/r/androiddev/comments/77sl1c/devs_who_review_kotlin_regularly_what_are_things/dorsk3i/
 
 # Table of Content
 
