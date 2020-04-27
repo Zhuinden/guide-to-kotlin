@@ -164,14 +164,6 @@ https://www.reddit.com/r/androiddev/comments/77sl1c/devs_who_review_kotlin_regul
 
 - multi-platform things: `expect` and `actual`?
 
-# Feel like donating?
-
-If you feel like this project helped you *so much* that you would have wanted to pay for it or something, I won't get in your way, and appreciate your support.
-
-## PayPal 
-
-* **[Donate €5](https://www.paypal.me/Zhuinden/5)**
-
 # License
 
     Copyright 2018 Gabor Varadi
