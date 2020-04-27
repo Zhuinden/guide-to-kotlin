@@ -26,6 +26,8 @@ A few things that are worth watching to know more about Kotlin.
 
 - [Droidcon NYC 2018: Advanced Kotlin](https://www.youtube.com/watch?v=ECglKui0hpc)
 
+- [Google I/O 2017 - Jake Wharton / Christina Lee: Life is Great and Everything will be OK: Kotlin is here](https://www.youtube.com/watch?v=fPzxfeDJDzY)
+
 ## Style-guide and reference for common mistakes to avoid 
 
 https://www.reddit.com/r/androiddev/comments/77sl1c/devs_who_review_kotlin_regularly_what_are_things/dorsk3i/
