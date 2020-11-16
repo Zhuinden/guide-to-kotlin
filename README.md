@@ -148,25 +148,25 @@ https://www.reddit.com/r/androiddev/comments/77sl1c/devs_who_review_kotlin_regul
 
 ## Android-Specific Stuff
 
-- [synthetic view accessors with kotlin android extensions](https://github.com/Zhuinden/guide-to-kotlin/wiki/5.\)-Android-Specific-Stuff#synthetic-view-accessors-with-kotlin-android-extensions)
+- [~~synthetic view accessors with kotlin android extensions~~ (deprecated)](https://github.com/Zhuinden/guide-to-kotlin/wiki/5.\)-Android-Specific-Stuff#synthetic-view-accessors-with-kotlin-android-extensions)
 
 - [`@Parcelize data class` with experimental kotlin android extensions](https://github.com/Zhuinden/guide-to-kotlin/wiki/5.\)-Android-Specific-Stuff#parcelize-data-class-with-experimental-kotlin-android-extensions)
 
-## Stuff that needs to be added or more fleshed out in this tutorial
+# Stuff that is currently not covered, and should eventually be added in this tutorial
 
-- things marked with * in the table of contents
+- Coroutines, coroutines on Android, `suspend fun`
 
-- coroutines?
+- Channels: LinkedListChannel, BroadcastChannel
 
-- channels?
+- @DslMarker
 
-- @DslMarker?
+- multi-platform things: `expect` and `actual`
 
-- multi-platform things: `expect` and `actual`?
+- contracts
 
 # License
 
-    Copyright 2018 Gabor Varadi
+    Copyright 2018-2020 Gabor Varadi
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
