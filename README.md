@@ -16,6 +16,8 @@ A few things that are worth watching to know more about Kotlin.
 
 - By me: [Code clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
 
+- By me (newer article!): [An opinionated guide on how to make your Kotlin code fun to read and joy to work with](https://proandroiddev.com/an-opinionated-guide-on-how-to-make-your-kotlin-code-fun-to-read-and-joy-to-work-with-caa3a4036f9e)
+
 - Android KTX source code: [Github snapshot](https://github.com/android/android-ktx/tree/136ba4cdb3b6ece7470cbddeaf6a168021a69a30/src/main/java/androidx/core) or [AOSP (actively developed)](https://android.googlesource.com/platform/frameworks/support/+/master/core/ktx/src/main/java/androidx/core)
 
 ## More resources to watch
